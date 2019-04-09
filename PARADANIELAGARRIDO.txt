@@ -1,0 +1,15 @@
+Hola Daniela!
+
+Te he dejado una pequeña sorpresa. Te va a decir cosas que ya sabías o sospechabas, pero que nunca sobra recordarte.
+
+En tu teclado, oprime la tecla de windows y la tecla R al mismo tiempo, es decir, windows + R. En la ventanita que te aparece en la parte
+inferior izquierda de tu pantalla escribe cmd y presiona enter. Te debería aparecer la una pantalla negra.
+Ahora, copia y pega (con control + c y control + v) lo siguiente.
+
+java -jar "C:\Users\hca.ITAM\Documents\Rulo\SorpresaDaniela\dist\SorpresaDaniela.jar"
+
+Disfruta tu sorpresa!
+
+Luisfe.
+
+
